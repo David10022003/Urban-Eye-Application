@@ -18,7 +18,7 @@ Puedes encontrar las versiones más recientes en la pestaña [Releases](https://
 - **Sistema operativo:** Windows 10/11 (64 bits)
 - **Archivo:** [UrbanEye-Setup.exe](https://github.com/David10022003/Urban-Eye-Application/releases/download/1.0.0/Urban.Eye.Setup.1.0.0.exe)
 - **Instalación:**
-  1. Descarga el instalador desde la última release.
+  1. Descarga el `.exe` desde la última release.
   2. Ejecuta el instalador y sigue los pasos.
   3. Inicia Urban-Eye desde el menú de inicio.
 
