@@ -50,12 +50,10 @@ Puedes encontrar las versiones más recientes en la pestaña [Releases](https://
 - Compatible tanto en escritorio como en dispositivos móviles.  
 
 ---
-
-## Documentación
-Para más detalles sobre el uso de la aplicación consulta el [Manual de Usuario](docs/Manual_de_Uso_Urban_Eye.pdf).
-Para conocer la estructura y arquitectura de la aplicación consulta el [Documento de Arquitectura](docs/Documento_Arquitectura_Urban_Eye.pdf)
+##Documentación
+Para más detalles sobre el uso de la aplicación, consulta el [Manual de Usuario](docs/Manual_de_Uso_Urban_Eye.pdf).
+Para conocer la estructura y arquitectura de la aplicación cosnulta el [Documento de Arquitectura](docs/Documento_Arquitectura_Urban_Eye.pdf).
 ---
-
 ## Tecnologías
 - Aplicación de escritorio: **Angular** (Framework frontend), **TypeScript** (Lenguaje principal) 
 - Aplicación Android: **Android Studio** (Java, MVVM, Clean Architecture, Hilt)  
