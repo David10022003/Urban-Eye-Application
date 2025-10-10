@@ -35,12 +35,25 @@ Puedes encontrar las versiones más recientes en la pestaña [Releases](https://
 ## Capturas de Pantalla
 
 ### Aplicación Android  
-![Pantalla de inicio](/images/aplicacion_movil.jpg)  
-![Mapa de reportes](/images/reportes_movil.jpg)  
+#### Pantalla de inicio
+<p align="left">
+  <img src="images/aplicacion_movil.jpg" alt="Pantalla de inicio" width="200"/>
+</p>
 
-### Aplicación de Escritorio  
-![Pantalla principal](/images/aplicacion_web.png)  
-![Módulo de inteligencia artificial](/images/inteligencia_artificial.jpg)  
+#### Mapa de reportes
+<p align="left">
+  <img src="images/reportes_movil" alt="Mapa de reportes" width="200"/>
+</p>
+
+### Aplicación de escritorio  
+#### Pantalla principal  
+<p align="left">
+  <img src="images/aplicacion_web.png" alt="Aplicación de escritorio" width="200"/>
+</p>
+#### Módulo de inteligencia artificial
+<p align="left">
+  <img src="images/inteligencia_artificial.jpg" alt="Modelo de IA" width="200"/>
+</p>
 
 ---
 
