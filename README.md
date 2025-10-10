@@ -42,7 +42,7 @@ Puedes encontrar las versiones más recientes en la pestaña [Releases](https://
 
 #### Mapa de reportes
 <p align="left">
-  <img src="images/reportes_movil" alt="Mapa de reportes" width="200"/>
+  <img src="images/reportes_movil.jpg" alt="Mapa de reportes" width="200"/>
 </p>
 
 ### Aplicación de escritorio  
