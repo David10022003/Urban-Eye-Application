@@ -1,7 +1,7 @@
 # Urban-Eye
 
 <p align="center">
-  <img src="logo_urban_eye.png" alt="Urban Eye Logo" width="200"/>
+  <img src="images/logo_urban_eye.png" alt="Urban Eye Logo" width="200"/>
 </p>
 
 Urban-Eye es una plataforma tecnológica que permite a los ciudadanos reportar problemas en el espacio público mediante la aplicación movil y a los funcionarios recibir sugerencias de soluciones mediante mediante la aplicación de escritorio, utilizando técnicas de urbanismo táctico apoyadas por IA.  
@@ -35,11 +35,12 @@ Puedes encontrar las versiones más recientes en la pestaña [Releases](https://
 ## Capturas de Pantalla
 
 ### Aplicación Android  
-![Pantalla de inicio](docs/images/android_inicio.png)  
-![Mapa de reportes](docs/images/android_mapa.png)  
+![Pantalla de inicio](/images/aplicacion_movil.jpg)  
+![Mapa de reportes](/images/reportes_movil.jpg)  
 
 ### Aplicación de Escritorio  
-![Dashboard principal](docs/images/desktop_dashboard.png)  
+![Pantalla principal](/images/aplicacion_web.png)  
+![Módulo de inteligencia artificial](/images/inteligencia_artificial.jpg)  
 
 ---
 
