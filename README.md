@@ -48,11 +48,12 @@ Puedes encontrar las versiones más recientes en la pestaña [Releases](https://
 ### Aplicación de escritorio  
 #### Pantalla principal  
 <p align="left">
-  <img src="images/aplicacion_web.png" alt="Aplicación de escritorio" width="200"/>
+  <img src="images/aplicacion_web.png" alt="Aplicación de escritorio" width="300"/>
 </p>
+
 #### Módulo de inteligencia artificial
 <p align="left">
-  <img src="images/inteligencia_artificial.jpg" alt="Modelo de IA" width="200"/>
+  <img src="images/inteligencia_artificial.jpg" alt="Modelo de IA" width="300"/>
 </p>
 
 ---
